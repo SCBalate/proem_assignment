@@ -9,7 +9,7 @@ This is a multi-step campaign creation wizard built using React, Tailwind CSS, a
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/campaign-builder.git
+   git clone https://github.com/asbalate/proem_assignment.git
    cd campaign-builder
    ```
 
@@ -78,11 +78,7 @@ src/
 └── main.jsx          # Entry point with providers and routing setup
 ```
 
----
 
-## 📸 Demo
-
-> _Add screenshots or a Loom walkthrough link here if available_
 
 ---
 
